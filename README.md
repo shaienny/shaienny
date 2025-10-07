@@ -1,9 +1,8 @@
 ## 👋 Olá, eu sou a Shaienny
 
-<img align="right" src="https://komarev.com/ghpvc/?username=shaienny&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/shaienny">
-    <img align="center" src="Welcome.gif" width="500">
+    <img align="center" src="welcomet.gif" width="500">
   </a>
 </div>
 <br>
