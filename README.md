@@ -1,5 +1,11 @@
 ## 👋 Olá, eu sou a Shaienny
 
+<div align="center">
+  <a href="https://github.com/andreinaoliveira">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
+</div>
+
 <div>
   <a href="https://github.com/shaienny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaienny&theme=jolly&show_icons=true">
