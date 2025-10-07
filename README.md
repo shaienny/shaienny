@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/shaienny">
-    <img align="center" src="welcomet.gif" width="500">
+    <img align="center" src="welcomet.gif" width="700">
   </a>
 </div>
 <br>
