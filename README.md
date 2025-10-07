@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/shaienny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaienny&theme=jolly&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaienny&langs_count=15&card_width=420&layout=compact&theme=jolly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaienny&card_width=420&layout=compact&theme=jolly">
 </div>
 
 <div style="display: inline_block"><br>
